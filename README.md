@@ -42,3 +42,5 @@ DAX: For calculated columns and KPIs
 📌 Usage
 Ideal for sales analysts, business intelligence professionals, and operations managers in the e-commerce or retail domain. This dashboard supports strategic decision-making by highlighting key performance metrics and consumer trends.
 
+###Screenshot And Demo :
+Example: ![Dashboard Preview](https://github.com/decentniket/Blinkit-Dashoard/blob/main/Dashboard%20Overview.PNG)
